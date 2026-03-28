@@ -1,6 +1,6 @@
 # 🔧 CLTX4 Repair Official
 
-![Logo](logo.png)
+![Logo](Logo.png)
 
 ## ✔ Official Verified
 ![Verified](https://img.shields.io/badge/Status-Official%20Verified-blue?style=for-the-badge)
